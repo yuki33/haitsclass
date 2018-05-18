@@ -1,2 +1,4 @@
-# 課題が開けない場合はこちらのサイトからファイルの確認をお願いします
-# http://nbviewer.jupyter.org/github/yuki33/haitsclass/tree/master/
+# Kaggle
+## 1,house price(2017)
+## 2,titanic(2017)
+## 3,cookpadの材料分類 (2018)
